@@ -358,10 +358,10 @@ Crosshair/
 
 ### 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-repo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo)
+![GitHub stars](https://img.shields.io/github/stars/liuroland55/CrossHairLIN?style=social)
+![GitHub forks](https://img.shields.io/github/forks/liuroland55/CrossHairLIN?style=social)
+![GitHub issues](https://img.shields.io/github/issues/liuroland55/CrossHairLIN/)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/liuroland55/CrossHairLIN/)
 
 ---
 

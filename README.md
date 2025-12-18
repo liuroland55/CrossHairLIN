@@ -326,10 +326,9 @@ Crosshair/
 
 ### **Getting Help**
 
-- **📧 Technical Support**: [Create an Issue](https://github.com/your-repo/issues)
-- **💬 Feature Requests**: [Discussions](https://github.com/your-repo/discussions)
-- **🐛 Bug Reports**: [Issue Tracker](https://github.com/your-repo/issues/new?template=bug_report.md)
-- **📖 Documentation**: [Wiki](https://github.com/your-repo/wiki)
+- **📧 Technical Support**: [Create an Issue](https://github.com/liuroland55/CrossHairLIN/issues/new)
+- **💬 Feature Requests**: [Discussions](https://github.com/liuroland55/CrossHairLIN/discussions/1)
+- **📖 Documentation**: [Wiki](https://github.com/liuroland55/CrossHairLIN/wiki)
 
 ### **Contributing Guidelines**
 

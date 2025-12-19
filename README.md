@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Advanced Crosshair Overlay System
+#CrosshairLin: A new solution for FPS aiming tomorrow
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PySide6](https://img.shields.io/badge/PySide6-6.4+-green.svg?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/qt-for-python)
@@ -12,22 +12,22 @@
 
 ---
 
-## 🔥 Features & Capabilities
+##  Features & Capabilities
 
 | Feature | Description | Technology |
 |---------|-------------|------------|
-| **🎨 8 Crosshair Types** | Cross, Dot, Square, Circle, Triangle, Hollow Cross, Hollow Square, Hollow Cross+Dot | PySide6 QPainter |
-| **⚡ Real-time Rendering** | 20 FPS smooth rendering with anti-aliasing | QTimer + QPainter |
-| **🖱️ Drag & Drop Positioning** | Intuitive drag-to-position with coordinate tracking | Mouse Events + Window Flags |
-| **🌍 Mouse Penetration** | Click-through overlay for gaming | Qt.WindowTransparentForInput |
-| **💾 Preset Management** | Save/load unlimited custom configurations | JSON-based Storage |
-| **🎛️ Advanced Customization** | 20+ parameters with live preview | Signal-Slot Architecture |
-| **🌐 Multi-language Support** | English/Chinese interface | Internationalization System |
+| ** 8 Crosshair Types** | Cross, Dot, Square, Circle, Triangle, Hollow Cross, Hollow Square, Hollow Cross+Dot | PySide6 QPainter |
+| ** Real-time Rendering** | 20 FPS smooth rendering with anti-aliasing | QTimer + QPainter |
+| ** Drag & Drop Positioning** | Intuitive drag-to-position with coordinate tracking | Mouse Events + Window Flags |
+| ** Mouse Penetration** | Click-through overlay for gaming | Qt.WindowTransparentForInput |
+| ** Preset Management** | Save/load unlimited custom configurations | JSON-based Storage |
+| ** Advanced Customization** | 20+ parameters with live preview | Signal-Slot Architecture |
+| ** Multi-language Support** | English/Chinese interface | Internationalization System |
 | **📊 Smart Position Memory** | Persistent crosshair positioning | Configuration Persistence |
 
 ---
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ### Core System Design
 
@@ -48,13 +48,13 @@ graph TD
 
 ### UI/UX Design Philosophy
 
-#### 🎯 **User-Centric Design**
+####  **User-Centric Design**
 - **Intuitive Interface**: Clean, modern Qt Fusion style with logical grouping
 - **Real-time Feedback**: Instant visual updates for all parameter changes
 - **Progressive Disclosure**: Advanced options hidden until needed
 - **Accessibility**: High contrast, clear typography, keyboard navigation
 
-#### 🔧 **Technical Implementation**
+####  **Technical Implementation**
 - **Event-Driven Architecture**: Signal-slot pattern for responsive UI
 - **State Management**: Centralized configuration with atomic updates
 - **Memory Efficiency**: Lazy loading and resource pooling
@@ -307,7 +307,7 @@ Download the pre-compiled executable from [Releases](https://github.com/liurolan
 
 ---
 
-## 🎮 Usage Guide
+##  Usage Guide
 
 ### Basic Operations
 
@@ -319,7 +319,7 @@ Download the pre-compiled executable from [Releases](https://github.com/liurolan
 
 ### Advanced Features
 
-#### 🎯 **Drag Mode Activation**
+####  **Drag Mode Activation**
 ```python
 # Toggle mouse penetration dynamically
 def toggleDragMode(self):
@@ -359,7 +359,7 @@ def toggleDragMode(self):
 
 ---
 
-## 🎨 Visual Customization Examples
+##  Visual Customization Examples
 
 ### **Professional Gaming Presets**
 
@@ -385,7 +385,7 @@ def toggleDragMode(self):
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### System Resource Usage
 
@@ -405,7 +405,7 @@ def toggleDragMode(self):
 
 ---
 
-## 🛠️ Development & Contributing
+##  Development & Contributing
 
 ### Project Structure
 
@@ -437,11 +437,11 @@ Crosshair/
 
 ---
 
-## 📈 Version History & Changelog
+##  Version History & Changelog
 
 ### **v1.1.1** - *Precision Enhancement* (2025-12-17)
 
-#### ✨ **New Features**
+####  **New Features**
 - **Extended Size Range**: Crosshair size now supports 1-100px (previously 5-100px)
 - **Fine-Grained Control**: Sub-pixel precision for professional gaming
 - **Enhanced Compatibility**: Improved multi-monitor support
@@ -460,18 +460,18 @@ Crosshair/
 
 ### **v1.1.0** - *Drag Revolution* (2025-12-17)
 
-#### 🚀 **Major Features**
+####  **Major Features**
 - **Interactive Drag System**: Real-time crosshair positioning
 - **Smart Position Memory**: Persistent location storage
 - **Coordinate Display**: Live position tracking during drag
 - **Center Reset**: One-click screen centering
 
-#### 🔬 **Technical Innovation**
+####  **Technical Innovation**
 - **Dynamic Window Flags**: Runtime mouse penetration toggle
 - **Event-Driven Architecture**: Optimized signal handling
 - **State Management**: Enhanced configuration persistence
 
-#### 🎨 **UI/UX Enhancements**
+####  **UI/UX Enhancements**
 - **Visual Feedback**: Color-coded mode indicators
 - **Smooth Animations**: 60 FPS drag responsiveness
 - **Intuitive Controls**: Natural drag-and-drop interaction
@@ -480,45 +480,45 @@ Crosshair/
 
 ### **v1.0.1** - *Foundation Release* (2025-12-16)
 
-#### 🏗️ **Core Implementation**
+####  **Core Implementation**
 - **Basic Overlay System**: Full-screen transparent rendering
 - **8 Crosshair Types**: Complete shape library
 - **Configuration System**: JSON-based settings
 - **Multi-language Support**: English/Chinese interface
 
-#### 🔧 **Technical Foundation**
+####  **Technical Foundation**
 - **PySide6 Framework**: Modern Qt6 integration
 - **Modular Architecture**: Separated UI and rendering
 - **Error Handling**: Comprehensive exception management
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 ### **v1.2.0** - *Advanced Customization* (Q1 2026)
 
-- 🎨 **Animated Crosshairs**: Breathing, pulsing effects
-- ⌨️ **Hotkey System**: Quick toggle and preset switching
-- ☁️ **Cloud Sync**: Configuration synchronization across devices
-- 🎮 **Game Detection**: Automatic preset loading
+-  **Animated Crosshairs**: Breathing, pulsing effects
+-  **Hotkey System**: Quick toggle and preset switching
+-  **Cloud Sync**: Configuration synchronization across devices
+-  **Game Detection**: Automatic preset loading
 
 ### **v1.3.0** - *Community Integration* (Q2 2026)
 
-- 🌐 **Online Preset Library**: Share and download community configs
-- 📊 **Analytics Dashboard**: Usage statistics and performance metrics
-- 🔌 **Plugin System**: Third-party extension support
-- 🎯 **AI-Assisted Optimization**: Machine learning-based positioning
+-  **Online Preset Library**: Share and download community configs
+-  **Analytics Dashboard**: Usage statistics and performance metrics
+-  **Plugin System**: Third-party extension support
+-  **AI-Assisted Optimization**: Machine learning-based positioning
 
 ---
 
-## 🤝 Community & Support
+##  Community & Support
 
 ### **Getting Help**
 
-- **📧 Technical Support**: [Create an Issue](https://github.com/liuroland55/CrossHairLIN/issues)
-- **💬 Feature Requests**: [Discussions](https://github.com/liuroland55/CrossHairLIN/discussions)
-- **🐛 Bug Reports**: [Issue Tracker](https://github.com/liuroland55/CrossHairLIN/issues/new?template=bug_report.md)
-- **📖 Documentation**: [Wiki](https://github.com/liuroland55/CrossHairLIN/wiki)
+- ** Technical Support**: [Create an Issue](https://github.com/liuroland55/CrossHairLIN/issues)
+- ** Feature Requests**: [Discussions](https://github.com/liuroland55/CrossHairLIN/discussions)
+- ** Bug Reports**: [Issue Tracker](https://github.com/liuroland55/CrossHairLIN/issues/new?template=bug_report.md)
+- ** Documentation**: [Wiki](https://github.com/liuroland55/CrossHairLIN/wiki)
 
 ### **Contributing Guidelines**
 
@@ -538,7 +538,7 @@ Crosshair/
 
 <div align="center">
 
-## 🎯 Ready to Elevate Your Gaming Experience?
+##  Ready to Elevate Your Gaming Experience?
 
 [![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuroland55/CrossHairLIN/releases/latest)
 [![Star](https://img.shields.io/badge/Star-This-Repo-yellow.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuroland55/CrossHairLIN)
@@ -546,7 +546,7 @@ Crosshair/
 
 ---
 
-### 📊 Project Statistics
+###  Project Statistics
 
 ![GitHub stars](https://img.shields.io/github/stars/liuroland55/CrossHairLIN?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/liuroland55/CrossHairLIN?style=social)
